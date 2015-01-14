@@ -10,6 +10,7 @@
 
     <Grid>
         <TextBlock HorizontalAlignment="Left" Height="120" Margin="85,100,0,0" TextWrapping="Wrap" Text="Hei, maailma! t hebob" VerticalAlignment="Top" Width="223" SelectionChanged="TextBlock_SelectionChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="8" Margin="236,406,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="72"/>
 
     </Grid>
 </Page>
